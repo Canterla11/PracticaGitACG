@@ -11,5 +11,6 @@ $randomNumber = rand(1, 100);
 <body>
     <h1>Número Aleatorio</h1>
     <p>Número aleatorio: <?php echo $randomNumber; ?></p>
+    <h3>Agustín Canterla</h3>
 </body>
 </html>
