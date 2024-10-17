@@ -1,2 +1,1 @@
-este cambio lo ha realizado keiner desde su maquina virtual
-Cambios de Agustín desde la rama main
+este cambio es del archivo de conflictos
